@@ -4,4 +4,8 @@ Hi 👋, I'm Corentin Ach, a junior front-end engineer currently based in the so
 - 🔭 I’m currently working on [EndlessO](https://corentin-ach.notion.site/Ocean-Quality-c3e3d825e4eb43f9a7503300911a4309) & [Astronef](https://blog.astronef.app) projects
 - 🌱 I’m currently learning React Native & Express
 - 💬 Ask me about my best surf spot
-- 📫 How to reach me: corentin-ach.welovedevs.com
+- 📫 How to reach me : [follow me on linkedin](https://www.linkedin.com/in/corentin-ach-0948b71b1/)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corentin-ach&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars,prs)](https://github.com/corentin-ach/github-readme-stats)
