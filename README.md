@@ -7,5 +7,7 @@ Hi 👋, I'm Corentin Ach, a junior front-end engineer currently based in the so
 - 📫 How to reach me : [follow me on linkedin](https://www.linkedin.com/in/corentin-ach-0948b71b1/)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corentin-ach&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars,prs)](https://github.com/corentin-ach/github-readme-stats)
+<p align="center">
+  <img alt="Corentin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=corentin-ach&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars,prs" height="162px"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentin-ach&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="162px"/>
+</p>
