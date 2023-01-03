@@ -1,12 +1,24 @@
 ## 👋 Hello World
 
-Hi , I'm Corentin Ach, a junior front-end engineer currently based in the south west of France. I've rich experience in web development, with almost 2 years of working in the software industry. I love to challenge myself by taking part in impactful projects! My motivation comes from Brittany lands in beautiful Finistère, where I grew up.
+Hello,
 
-- 🚀  I'm working with a startup company as a front-end engineer
-- 🔭  I’m currently working on [EndlessO](https://corentin-ach.notion.site/Ocean-Quality-c3e3d825e4eb43f9a7503300911a4309) & [Astronef](https://blog.astronef.app) projects as side projects
-- 🌱  I’m currently learning React Native & Express
-- 💬  Ask me about my best surf spots in Brittany
-- 📫  How to reach me : [follow me on linkedin](https://www.linkedin.com/in/corentin-ach-0948b71b1/)
+I am a software engineer with over 3 years of front-end development.
+I used to work for international startups, especially for substantial clients in the agricultural field.
+I like to solve complex problems while keeping a creative eye. I am front-end focus, but I did also back-end development.
+
+I can help you now in any web project! I have a special expertise for cartography website, but it's not the only one. I can also build :
+- landing page
+- dashboard
+- charts and tools to analyse data
+- chat message website
+- authentification, login
+- responsive mobile view
+
+I am the developer you need if you're looking for someone who can build project from scratch, develop new features, for short-term or long-term development. Feel free to reach out! :)
+
+Thank you,
+
+Corentin
 
 ## My stats
 <p align="center">
