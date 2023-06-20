@@ -1,17 +1,11 @@
 ## 👋 Hello World
 
-Hello,
+Heya,
 
 I am a software engineer! I used to work for international startups.
-I like to solve complex problems while keeping a creative eye. I am front-end focus, but I did also back-end development.
-
-I can help you now in any web project! I have a special expertise for cartography website, but it's not the only one. I can also build :
-- landing page
-- dashboard
-- charts and tools to analyse data
-- chat message website
-- authentification, login
-- responsive mobile view
+I like to solve complex problems while keeping a creative eye. 
+React, React Native, Mapbox, Expo. Special expertise in cartography.
+Currently between Europe, Australia, and NZ.
 
 ## My stats
 <p align="center">
