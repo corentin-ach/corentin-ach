@@ -1,11 +1,11 @@
-## 👋 Hello World
+## 👋 Heya
 
-Heya,
+I'm Corentin, a frontend engineer from stunning Brittany in France. 
+I used to work for international startups, especially in the cartography X mobile field. 
+Solving complex problems while keeping a creative eye, this is my daily job. 
+Catching waves in the tropic is my yearly goal.  
 
-I am a software engineer! I used to work for international startups.
-I like to solve complex problems while keeping a creative eye. 
-React, React Native, Mapbox, Expo, Cartography.
-From France.
+React, React Native, Expo, Mapbox, Tamagui, NextJs.
 
 ## My stats
 <p align="center">
